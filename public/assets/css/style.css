@@ -701,7 +701,8 @@ h1, h2, h3, h4, h5, h6 {
   }
 
   #heros .container {
-    padding-top: 110px;
+    padding-top: 1px;
+
   }
 
   @media (max-width: 992px) {
@@ -712,11 +713,11 @@ h1, h2, h3, h4, h5, h6 {
 
   #heros h1 {
     margin: 0;
-    font-size: 48px;
+    margin: 0;
+    font-size: 36px;
     font-weight: 700;
-    line-height: 56px;
-    color: #fff;
-    font-family: "Poppins", sans-serif;
+    font-family: "Playfair Display", serif;
+    color: rgb(222, 111, 168);
   }
 
   #heros h1 span {
@@ -884,7 +885,19 @@ h1, h2, h3, h4, h5, h6 {
     }
   }
 
+  #heros .gallery-item {
+    overflow: hidden;
+    border-right: 3px solid #454035;
+    border-bottom: 3px solid #454035;
+  }
 
+  #heros  .gallery-item img {
+    transition: all ease-in-out 0.4s;
+  }
+
+  #heros .gallery-item:hover img {
+    transform: scale(1.1);
+  }
 
 /*--------------------------------------------------------------
 # Sections General

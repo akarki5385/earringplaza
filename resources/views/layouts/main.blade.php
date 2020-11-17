@@ -10,8 +10,9 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <link sizes="57x57" href="https://img1.wsimg.com/isteam/ip/f488b28c-7cdd-4794-83b5-8fb5a249f406/logo/0ea2c065-e39e-4f27-acbd-769fe3207c86.png/:/rs=w:57,h:57,m" rel="icon" >
+  <link sizes="57x57" href="https://img1.wsimg.com/isteam/ip/f488b28c-7cdd-4794-83b5-8fb5a249f406/logo/0ea2c065-e39e-4f27-acbd-769fe3207c86.png/:/rs=w:57,h:57,m" rel="apple-touch-icon" >
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
